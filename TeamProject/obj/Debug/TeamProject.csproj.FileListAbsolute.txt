@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\pc\source\repos\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\pc\source\repos\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\pc\source\repos\TeamProject\TeamProject\bin\Debug\Guna.UI2.dll
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.LoginPage.resources
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProj.4DCBAE7B.Up2Date
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\pc\source\repos\TeamProject\TeamProject\obj\Debug\TeamProject.MainPage.resources
